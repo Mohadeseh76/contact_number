@@ -3,6 +3,8 @@
 Contact Number Management App is a PyQt5-based application designed to help you manage your contacts and
 their phone numbers efficiently. With this application, you can add, edit, delete, and search for contact information effortlessly.
 
+![Screenshot 2023-09-19 185259](https://github.com/Mohadeseh76/contact_number/assets/141071219/c4a369a3-9e52-4664-9882-4ccdb1b841b9)
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
@@ -94,5 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - SQLite documentation.
 
 ---
-
-![Screenshot 2023-09-19 185259](https://github.com/Mohadeseh76/contact_number/assets/141071219/c4a369a3-9e52-4664-9882-4ccdb1b841b9)
